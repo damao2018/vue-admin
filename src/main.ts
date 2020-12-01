@@ -25,7 +25,7 @@ const userInfo = {
   name: 'gs',
   tel: '12306',
 };
-const  user={
+const user={
 ...userInfo,
 };
 
